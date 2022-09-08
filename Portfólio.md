@@ -13,3 +13,5 @@ https://www.olivetreefilmes.com.br/blog/entenda-evolucao-da-web-1-0-2-0-e-3-0/
 ### Referente ao dia 30/08/2022 - Roda de conversa com Luiz Otávio Negão Pazzini Filho
 Foi realizada no auditório em horário de aula do dia.
 
+### Referente ao dia 06/09/2022 - Conceitos para desenvolvimento de software
+https://www.logiquesistemas.com.br/blog/desenvolvimento-de-software-6-passos/
