@@ -15,3 +15,6 @@ Foi realizada no auditório em horário de aula do dia.
 
 ### Referente ao dia 06/09/2022 - Conceitos para desenvolvimento de software
 https://www.logiquesistemas.com.br/blog/desenvolvimento-de-software-6-passos/
+
+### Referente ao dia 13/09/2022 - Roda de conversa sobre processo de software
+Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen
