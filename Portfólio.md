@@ -2,7 +2,7 @@
 
 
 ## Links de fontes
-### Referente a 09/08/2022
+### Referente a 09/08/2022 - A natureza do software
 https://www.devmedia.com.br/conceitos-de-software-e-engenharia-de-software/15730
 
 
@@ -18,3 +18,7 @@ https://www.logiquesistemas.com.br/blog/desenvolvimento-de-software-6-passos/
 
 ### Referente ao dia 13/09/2022 - Roda de conversa sobre processo de software
 Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen
+
+### Referente ao dia 20/09/2022 - Início das pesquisas sobre a empresa "Cajajoso"
+Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen
+Livro Sommerville Engenharia de Software 9ª edição disponibilizado pela professora Helen
