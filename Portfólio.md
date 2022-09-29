@@ -21,5 +21,7 @@ Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professo
 
 ### Referente ao dia 20/09/2022 - Início das pesquisas sobre a empresa "Cajajoso"
 Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen
-
 Livro Sommerville Engenharia de Software 9ª edição disponibilizado pela professora Helen
+
+### Referente ao dia 27/09/2022 - Apresentação da empresa Cajajoseo
+3 grupos apresentaram suas propostas de empresa para um participante de outro grupo como se fossem contratá-lo
