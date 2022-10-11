@@ -25,3 +25,11 @@ Livro Sommerville Engenharia de Software 9ª edição disponibilizado pela profe
 
 ### Referente ao dia 27/09/2022 - Apresentação da empresa Cajajoseo
 3 grupos apresentaram suas propostas de empresa para um participante de outro grupo como se fossem contratá-lo
+
+### Referente ao dia 04/10/2022 - Revisão sobre as empresas
+Falamos sobre componentes de códigos também
+
+### Referentes ao dia 11/10/2022 - Engenharia de requisitos
+Fizemos um trabalho em que pegamos o site do https://www.infraestruturameioambiente.sp.gov.br/verdeazuldigital/pontuacoes/
+Explicamos o que seria a Engenharia de requisitos e suas etapas, e seguidos pela orientação da professora fizemos o mesmo proecsso para o site
+
