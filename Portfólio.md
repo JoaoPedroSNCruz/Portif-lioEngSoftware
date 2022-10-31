@@ -33,3 +33,8 @@ Falamos sobre componentes de códigos também
 Fizemos um trabalho em que pegamos o site do https://www.infraestruturameioambiente.sp.gov.br/verdeazuldigital/pontuacoes/
 Explicamos o que seria a Engenharia de requisitos e suas etapas, e seguidos pela orientação da professora fizemos o mesmo proecsso para o site
 
+### Referentes ao dia 18/10/2022 - SNTC
+No horário de aula ocorreu o Concurso Culinário IFCHEF
+
+### Referentes ao dia 25/10/2022 - Aula pós SNTC
+Conversamos sobre a SNTC em relação a feedback dos alunos e da visão da própria professora que nos incentivou a reinvindicarmos o que é nosso, como o evento que deveria ser para todos os cursos e não abrangeram nem tanto a área como com os horários do curso de Engenharia
