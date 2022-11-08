@@ -38,3 +38,8 @@ No horário de aula ocorreu o Concurso Culinário IFCHEF
 
 ### Referentes ao dia 25/10/2022 - Aula pós SNTC
 Conversamos sobre a SNTC em relação a feedback dos alunos e da visão da própria professora que nos incentivou a reinvindicarmos o que é nosso, como o evento que deveria ser para todos os cursos e não abrangeram nem tanto a área como com os horários do curso de Engenharia
+
+### Referentes ao dia 01/11/2022 - Faltei pois estava doente
+
+### Referentes ao dia 08/11/2022 - Interface efetiva
+Falamos sobre a importância da interface para a aprovação de um produto, e a professora nos passou um trabalho para criarmos interfaces com alguns requisitos
