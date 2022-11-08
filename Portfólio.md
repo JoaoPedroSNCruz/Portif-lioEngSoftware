@@ -1,7 +1,7 @@
 # Portifólio
 
 
-## Links de fontes
+## Detalhamento de aula e links de fontes para pesquisa
 ### Referente a 09/08/2022 - A natureza do software
 https://www.devmedia.com.br/conceitos-de-software-e-engenharia-de-software/15730
 
@@ -43,3 +43,4 @@ Conversamos sobre a SNTC em relação a feedback dos alunos e da visão da próp
 
 ### Referentes ao dia 08/11/2022 - Interface efetiva
 Falamos sobre a importância da interface para a aprovação de um produto, e a professora nos passou um trabalho para criarmos interfaces com alguns requisitos
+Nossa empresa optou por utilizarmos o Figma para demonstrar nossas ideias
