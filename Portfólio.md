@@ -20,7 +20,7 @@ https://www.logiquesistemas.com.br/blog/desenvolvimento-de-software-6-passos/
 Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen
 
 ### Referente ao dia 20/09/2022 - Início das pesquisas sobre a empresa "Cajajoso"
-Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen
+Livro Pressman Engenharia de Software 8ª edição disponibilizado pela professora Helen  
 Livro Sommerville Engenharia de Software 9ª edição disponibilizado pela professora Helen
 
 ### Referente ao dia 27/09/2022 - Apresentação da empresa Cajajoseo
@@ -30,7 +30,7 @@ Livro Sommerville Engenharia de Software 9ª edição disponibilizado pela profe
 Falamos sobre componentes de códigos também
 
 ### Referentes ao dia 11/10/2022 - Engenharia de requisitos
-Fizemos um trabalho em que pegamos o site do https://www.infraestruturameioambiente.sp.gov.br/verdeazuldigital/pontuacoes/
+Fizemos um trabalho em que pegamos o site do https://www.infraestruturameioambiente.sp.gov.br/verdeazuldigital/pontuacoes/  
 Explicamos o que seria a Engenharia de requisitos e suas etapas, e seguidos pela orientação da professora fizemos o mesmo proecsso para o site
 
 ### Referentes ao dia 18/10/2022 - SNTC
@@ -42,5 +42,10 @@ Conversamos sobre a SNTC em relação a feedback dos alunos e da visão da próp
 ### Referentes ao dia 01/11/2022 - Faltei pois estava doente
 
 ### Referentes ao dia 08/11/2022 - Interface efetiva
-Falamos sobre a importância da interface para a aprovação de um produto, e a professora nos passou um trabalho para criarmos interfaces com alguns requisitos
+Falamos sobre a importância da interface para a aprovação de um produto, e a professora nos passou um trabalho para criarmos interfaces com alguns requisitos  
 Nossa empresa optou por utilizarmos o Figma para demonstrar nossas ideias
+https://www.figma.com/file/0SSZ263UnIGK9LxM1FI15L/Cajajoso?node-id=0%3A1
+
+### Referentes ao dia 15/11/2022 - Feriado Proclamação da República
+
+### Referentes ao dia 22/11/2022 -
