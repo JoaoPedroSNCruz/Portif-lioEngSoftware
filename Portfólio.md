@@ -49,4 +49,7 @@ https://www.figma.com/file/0SSZ263UnIGK9LxM1FI15L/Cajajoso?node-id=0%3A1
 ### Referentes ao dia 15/11/2022 - Feriado Proclamação da República
 
 ### Referentes ao dia 22/11/2022 - Apresentação dos grupos
-Os grupos apresentaram cada um seu trabalho e a maneira de como viram os requisitos e interpretaram para expor suas interfaces
+Os grupos apresentaram cada um seu trabalho e a maneira de como viram os requisitos e interpretaram para expor suas interfaces.
+
+### Referentes ao dia 29/11/2022 - Introdução a matéria de testes
+A professora explicou sobre a questão de testes e seu intuito, como não vimos a matéria ela nos explicou seu intuito e vimos o testes que devem ser realizados.
