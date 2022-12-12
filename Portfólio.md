@@ -53,3 +53,6 @@ Os grupos apresentaram cada um seu trabalho e a maneira de como viram os requisi
 
 ### Referentes ao dia 29/11/2022 - Introdução a matéria de testes
 A professora explicou sobre a questão de testes e seu intuito, como não vimos a matéria ela nos explicou seu intuito e vimos o testes que devem ser realizados.
+
+### Referentes ao dia 06/12/2022 - Faltei pois estava viajando
+A professora nos passou alguns temas para fazermos apresentações sobre testes
